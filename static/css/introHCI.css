@@ -32,3 +32,14 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+
+img{
+     border-color: #dddddd;
+     display: inline-block;
+     position: relative;
+     margin-left: 4em;
+     padding: 0.65em;
+     width: 35%;
+   }
+   
